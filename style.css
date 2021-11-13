@@ -1,6 +1,6 @@
 body{
-    /* background: url(/cropped-1366-768-546902.jpg) no-repeat; */
-    /* background-image: url(./img/cropped-1366-768-546902.jpg); */
+   background-image: url(/img/cropped-1366-768-546902.jpg);
+   background-repeat: no-repeat;
     font-family: 'Yuji Syuku', serif;
     margin: 0px;
 }
@@ -23,11 +23,7 @@ nav{
     word-spacing: 30px;
     text-decoration: none;
 }
-.bg{
-    background-image:url(/img/cropped-1366-768-546902.jpg);
-    
-    
-}
+
 section > h1{
     color: rgba(0, 0, 0, 0.658);
     font-size: 40px;
