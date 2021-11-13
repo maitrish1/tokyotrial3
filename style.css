@@ -24,7 +24,8 @@ nav{
     text-decoration: none;
 }
 .bg{
-    background:url(/img/cropped-1366-768-546902.jpg) no-repeat;
+    background-image:url(/img/cropped-1366-768-546902.jpg);
+    background-repeat: no-repeat;
     
 }
 section > h1{
